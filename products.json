@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 12",
+    "price": 12000000,
+    "image": "https://res.cloudinary.com/drjxi2ca4/image/upload/v1729844194/510WkOj8FLL._AC_UF894_1000_QL80__mmw5rx.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Iphone 15",
+    "price": 12000000,
+    "image": "https://res.cloudinary.com/drjxi2ca4/image/upload/v1729844194/510WkOj8FLL._AC_UF894_1000_QL80__mmw5rx.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Iphone 14 ProMax",
+    "price": 12000000,
+    "image": "https://res.cloudinary.com/drjxi2ca4/image/upload/v1729844194/510WkOj8FLL._AC_UF894_1000_QL80__mmw5rx.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Iphone 13 ProMax",
+    "price": 12000000,
+    "image": "https://res.cloudinary.com/drjxi2ca4/image/upload/v1729844194/510WkOj8FLL._AC_UF894_1000_QL80__mmw5rx.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Iphone 16",
+    "price": 12000000,
+    "image": "https://res.cloudinary.com/drjxi2ca4/image/upload/v1729844194/510WkOj8FLL._AC_UF894_1000_QL80__mmw5rx.jpg",
+    "category_id": 1
+  }
+]
